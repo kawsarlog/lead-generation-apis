@@ -21,7 +21,7 @@
 
 ## At a Glance
 
-> **16,000** production-ready Lead Generation APIs for finding contacts, emails, and buying signals.
+> **16,000** production-ready Lead Generation APIs.
 
 A focused, always-fresh index of Lead Generation APIs for finding contacts, emails, and buying signals. Every entry is rated, shows real user counts, and is refreshed daily — so you find the right one fast.
 
