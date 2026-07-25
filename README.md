@@ -29,7 +29,7 @@ A focused, always-fresh index of Lead Generation APIs for finding contacts, emai
 |--------|-------|
 | **Total APIs** | **16,000** |
 | **Categories** | 1 |
-| **Last updated** | 2026-07-16 |
+| **Last updated** | 2026-07-25 |
 | **Update cadence** | Daily, automated |
 
 ## The Categories
@@ -87,15 +87,11 @@ Find contacts, emails, and buying signals to fuel outbound and enrichment.
 - **Fast to scan.** Ratings and real usage numbers surface the APIs worth your time.
 - **Consistent.** Every category follows the same clean, sortable layout.
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=kawsarlog/lead-generation-apis&type=Date)](https://www.star-history.com/#kawsarlog/lead-generation-apis&Date)
-
 ---
 
 <div align="center">
 
-**16,000 APIs** across **1 categories** — updated 2026-07-16
+**16,000 APIs** across **1 categories** — updated 2026-07-25
 <br /><sub>If this saved you time, a star helps others find it.</sub>
 
 </div>
