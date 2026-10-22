@@ -29,7 +29,7 @@ A focused, always-fresh index of Lead Generation APIs for finding contacts, emai
 |--------|-------|
 | **Total APIs** | **16,000** |
 | **Categories** | 1 |
-| **Last updated** | 2026-07-25 |
+| **Last updated** | 2026-10-22 |
 | **Update cadence** | Daily, automated |
 
 ## The Categories
@@ -91,7 +91,7 @@ Find contacts, emails, and buying signals to fuel outbound and enrichment.
 
 <div align="center">
 
-**16,000 APIs** across **1 categories** — updated 2026-07-25
+**16,000 APIs** across **1 categories** — updated 2026-10-22
 <br /><sub>If this saved you time, a star helps others find it.</sub>
 
 </div>
